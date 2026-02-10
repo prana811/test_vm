@@ -2,3 +2,4 @@ testing file
 hello
 simple text file
 mydata folder create
+new data2
